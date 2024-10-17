@@ -19,3 +19,5 @@ class Robot(health: Double, power: Double, var battery: Int) : Human(health, pow
         }
     }
 }
+
+// some comments
